@@ -1,6 +1,10 @@
 name: advertising_id_example
 description: Demonstrates how to use the advertising_id plugin.
 
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: '>=2.0.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
